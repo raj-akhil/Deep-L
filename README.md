@@ -70,5 +70,5 @@ Additional information
 1. cycleGAN model performance can be improved by running the model for some more epochs . the model given here is chosen subjectively from differents model produced after each epochs.
    The model generated in third epochs is camparitievly produced better results and as the epochs increases there is chance of overfitting that is the model generated images that is more      related to one class only.
 
-2. Text prediction model and birds class can also be improved by increasing the epochs.
- 
+2. Text prediction model and birds class can also be improved by increasing the epochs.   
+ [Additional Details](https://github.com/raj-akhil/Deep-L/tree/main/Reports)
